@@ -1,0 +1,6 @@
+C:\Users\Санжар\source\repos\14_homework_XML\14_homework_XML\obj\Debug\14_homework_XML.csprojResolveAssemblyReference.cache
+C:\Users\Санжар\source\repos\14_homework_XML\14_homework_XML\obj\Debug\14_homework_XML.csproj.CoreCompileInputs.cache
+C:\Users\Санжар\source\repos\14_homework_XML\14_homework_XML\bin\Debug\14_homework_XML.exe
+C:\Users\Санжар\source\repos\14_homework_XML\14_homework_XML\bin\Debug\14_homework_XML.pdb
+C:\Users\Санжар\source\repos\14_homework_XML\14_homework_XML\obj\Debug\14_homework_XML.exe
+C:\Users\Санжар\source\repos\14_homework_XML\14_homework_XML\obj\Debug\14_homework_XML.pdb

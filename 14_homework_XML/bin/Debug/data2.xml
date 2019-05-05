@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <id type="Guid">e1c04f95-85e6-468c-9633-b79c4dbdc4bb</id>
+    <name>Ivanov</name>
+    <age>23</age>
+    <mark>11,5</mark>
+  </student>
+</students>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students>
+  <student>
+    <name>Ivanov</name>
+    <age>23</age>
+    <mark>11,5</mark>
+  </student>
+  <student>
+    <name>Petrov</name>
+    <age>32</age>
+    <mark>12</mark>
+  </student>
+</students>
